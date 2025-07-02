@@ -83,7 +83,7 @@ CREATE TABLE predictions (
 );
 
 ##Interprétation des Codes Numériques
-🎯 Colonnes avec significations spécifiques :
+ Colonnes avec significations spécifiques :
 intubed, icu
 
 97 → Donnée manquante → Remplacer par np.nan
