@@ -10,20 +10,16 @@ Ce projet a pour objectif de prévoir si un patient atteint du COVID-19 est viva
 ## Structure du projet
 
 covid_prediction_project/
-│
-├── model/# data_finale
-│ ├── covid_data_cleaned_01.csv # Données nettoyées
-│ ├── covid_model.pkl # Modèle entraîné
-│ └── model_columns.pkl # Liste des colonnes du modèle
-│
-├── api/
-│ └── main.py # API FastAPI
-│
-├── ui/
-│ └── streamlit_app.py # Interface utilisateur Streamlit
-│
-├── README.md # Documentation du projet
-└── requirements.txt # Dépendances Python
+
+1 model/# data_finale
+a covid_data_cleaned_01.csv # Données nettoyées
+b covid_model.pkl # Modèle entraîné
+c model_columns.pkl # Liste des colonnes du modèle
+
+2 api/ main.py # API FastAPI
+
+3 streamlit_app.py # Interface utilisateur Streamlit
+4 Cassandra
 
 ## Installer les dépendances
 
