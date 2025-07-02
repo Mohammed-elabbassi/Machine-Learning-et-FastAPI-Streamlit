@@ -1,5 +1,5 @@
 
-# 📊 Analyse Exploratoire des Données (EDA)
+#  Analyse Exploratoire des Données (EDA)
 
 Ce document décrit l’analyse exploratoire réalisée sur les données cliniques liées au COVID-19.
 
@@ -40,7 +40,7 @@ Ce document décrit l’analyse exploratoire réalisée sur les données cliniqu
 - Visualisation de l’effet de l’âge sur la mortalité
 
 ### 5. Distribution des variables binaires
-- Diagrammes en barres  pour chaque variable 0/1
+* Diagrammes en barres  pour chaque variable 0/1
 
 ### 6. Matrice de corrélation
 - Corrélation visuelle entre toutes les variables numériques
@@ -51,7 +51,7 @@ Ce document décrit l’analyse exploratoire réalisée sur les données cliniqu
 
 ---
 
-## 🧠 Interprétations principales
+##  Interprétations principales
 
 - La mortalité augmente avec l’âge
 - Certaines comorbidités (diabète, hypertension, obésité) sont liées à une mortalité plus élevée
